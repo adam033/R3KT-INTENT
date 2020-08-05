@@ -29,6 +29,11 @@ Praktikum ini menitikberatkan pada implementasi intent untuk melakukan perpindah
 Berpindah dari satu Activity ke Activity lain dengan membawa data. Activity asal akan mengirimkan data melalui Intent dan Activity tujuan akan menerima data yang dikirimkan. <br>
 
 ### Hasil Run <br>
+![Alt Text](https://github.com/adam033/R3KT-INTENT/blob/master/Screenshot%20(276).png) <br>
+Gambar diatas merupakan interface pertama dari hasil run project yaitu terdapat tombol yang nanti akan kita program apabila kita klik maka akan pindah ke activity lain.
+<br>
+![Alt Text](https://github.com/adam033/R3KT-INTENT/blob/master/Screenshot%20(277).png) <br>
+Gambar diatas merupakan activity yang kedua hasil dari interaksi button yang terdapat pada interface yang pertama.
 
 
 
