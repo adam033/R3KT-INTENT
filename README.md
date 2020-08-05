@@ -33,7 +33,9 @@ Berpindah dari satu Activity ke Activity lain dengan membawa data. Activity asal
 Gambar diatas merupakan interface pertama dari hasil run project yaitu terdapat tombol yang nanti akan kita program apabila kita klik maka akan pindah ke activity lain.
 <br>
 ![Alt Text](https://github.com/adam033/R3KT-INTENT/blob/master/Screenshot%20(277).png) <br>
-Gambar diatas merupakan activity yang kedua hasil dari interaksi button yang terdapat pada interface yang pertama.
+Gambar diatas merupakan activity yang kedua hasil dari interaksi button yang terdapat pada interface yang pertama. <br>
+
+### Untuk Selengkapnya Cek File Di Atas
 
 
 
