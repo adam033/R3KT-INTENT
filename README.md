@@ -1,5 +1,4 @@
 # R3KT-INTENT
-## Intent <br>
 ### Teori <br>
 ##### Intent adalah mekanisme untuk melakukan sebuah action dan komunikasi antar komponen aplikasi misal activity, services, dan broadcast receiver. Ada tiga penggunaan umum intent dalam aplikasi Android yaitu: <br>
      •	Memindahkan satu activity ke activity lain dengan atau tidak membawa data.
@@ -17,5 +16,14 @@
          
          <br>
          
-### Latihan Praktikum Intent
+### Latihan Praktikum Intent <br>
+Praktikum ini menitikberatkan pada implementasi intent untuk melakukan perpindahan dari activity ke activity lain, dengan atau tidak membawa data. Beberapa bagian dari praktikum ini akan menjawab beberapa pertanyaan umum dalam pengembangan aplikasi Android sebagai berikut: <br>
+1.  Bagaimana berpindah dari satu activity ke activity lain? <br>
+2.  Bagaimana berpindah dari satu activity ke activity lain dengan membawa data? <br>
+3.  Single value dari suatu variabel. <br>
+4.  Obyek model Plain Old Java Object (POJO). <br>
+5.  Menjalankan komponen di aplikasi lain untuk keperluan membuka browser atau melakukan pemanggilan melalui aplikasi telepon bawaan? <br>
+6.  Mengirimkan hasil nilai balik melalui Intent. <br>
+
+      
 
