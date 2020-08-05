@@ -25,5 +25,12 @@ Praktikum ini menitikberatkan pada implementasi intent untuk melakukan perpindah
 5. Menjalankan komponen di aplikasi lain untuk keperluan membuka browser atau melakukan pemanggilan melalui aplikasi telepon bawaan? <br>
 6. Mengirimkan hasil nilai balik melalui Intent. <br>
 
+### Logika Dasar <br>
+Berpindah dari satu Activity ke Activity lain dengan membawa data. Activity asal akan mengirimkan data melalui Intent dan Activity tujuan akan menerima data yang dikirimkan. <br>
+
+### Hasil Run <br>
+
+
+
       
 
